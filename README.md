@@ -37,4 +37,4 @@ In this section, we present various resources in the form of **papers, blogs, an
   - **Blog: xxx**
   - **Paper**: [*InstructGPT: Training Language Models to Follow Instructions With Human Feedback*](https://proceedings.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf)
 
-- **How to Apply GPT to Various Tasks.**
+- **Applying GPT to Various Tasks.**
