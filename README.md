@@ -22,6 +22,4 @@ In this section, we present various resources in the form of **papers, blogs, an
 
 - **Learning with Human Feedbacks: Instruct-GPT & ChatGPT**.
 
-- **Leading Edge of Research: GPT-4**.
-
-- **Applications with GPT in Various Fields.**
+- **How to Apply GPT in Various Tasks.**
