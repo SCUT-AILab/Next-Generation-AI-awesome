@@ -15,6 +15,7 @@ In this section, we present various resources in the form of **papers, blogs, an
 
   - **Video**: [*A Detailed Reading of the Transformer Paper*](https://www.bilibili.com/video/BV1pu411o7BE/)
   - **Blog**: [*Details of Transformer*](https://zhuanlan.zhihu.com/p/338817680)
+  - **Code**: [*Pytorch version*](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
   - **Paper**: [*Attention Is All You Need*](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
   
 - **Evolution with Pretraining and Finetuning (BERT)**.
@@ -35,6 +36,7 @@ In this section, we present various resources in the form of **papers, blogs, an
 - **Learning with Human Feedbacks (Instruct-GPT, ChatGPT)**.
   - **Video**: [*A Detailed Reading of the Instruct-GPT Paper*](https://www.bilibili.com/video/BV1hd4y187CR/)
   - **Blog**: [*Details of Instruct-GPT/ChatGPT*](https://www.bilibili.com/opus/749177592393760805). In addition, we offer materials concerning the fundamental principles of [*RLHF*](https://mp.weixin.qq.com/s/hm_bbVebSF4JudctCsiRcA) and [*PPO*](https://www.jianshu.com/p/9f113adc0c50) algorithms.
+  - **Code**: [*ColossalAI*](https://github.com/hpcaitech/ColossalAI). In addition, we can refer to the Meta version of ChatGPT, [*LLaMA*](https://github.com/facebookresearch/llama). 
   - **Paper**: [*InstructGPT: Training Language Models to Follow Instructions With Human Feedback*](https://proceedings.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf)
 
 - **Applying GPT to Various Tasks**.
