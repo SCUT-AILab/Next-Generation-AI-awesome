@@ -21,12 +21,14 @@ In this section, we present various resources in the form of **papers, blogs, an
 - **Evolution with Pretraining and Finetuning (BERT)**.
   - **Video**: [*A Detailed Reading of the BERT Paper*](https://www.bilibili.com/video/BV1PL411M7eQ/)
   - **Blog**: [*Illustration of BERT*](https://zhuanlan.zhihu.com/p/364966458).
+  - **Code**: [*Tensorflow version*](https://github.com/google-research/bert), [*Pytorch version*](https://github.com/codertimo/BERT-pytorch)
   - **Paper**: [*BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding*](https://arxiv.org/pdf/1810.04805.pdf)
 
 
 - **Zero-shot Predictions with Pretraining at Scales (GPT1, GPT2, GPT3, GPT4)**.
   - **Video**: [*A Detailed Reading of the GPT-1,2&3 Paper*](https://www.bilibili.com/video/BV1AF411b7xQ/)
   - **Blog**: [*The Evolution of GPT Series*](https://zhuanlan.zhihu.com/p/609716668)
+  - **Code**: [*GPT-1*](https://github.com/openai/finetune-transformer-lm), [*GPT-2*](https://github.com/openai/gpt-2)
   - **Paper**: GPT-1, 2, and 3 have been accompanied by academic publications, while GPT-4 is currently only documented in a technical report without any model or training details.
     - [*Improving Language Understanding by Generative Pre-Training (GPT-1)*](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
     - [*Language Models are Unsupervised Multitask Learners (GPT-2)*](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
