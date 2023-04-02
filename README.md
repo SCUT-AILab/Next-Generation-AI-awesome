@@ -27,7 +27,7 @@ In this section, we present various resources in the form of **papers, blogs, an
 
 - **Zero-shot Predictions with Pretraining at Scales (GPT1, GPT2, GPT3, GPT4)**.
   - **Video**: [*A Detailed Reading of the GPT-1,2&3 Paper*](https://www.bilibili.com/video/BV1AF411b7xQ/)
-  - **Blog**: [*The Evolution of GPT Series*](https://zhuanlan.zhihu.com/p/609716668)
+  - **Blog**: [*The Evolution of GPT Series*](https://zhuanlan.zhihu.com/p/609716668). In addition, we offer materials concerning the [*LLM*](https://zhuanlan.zhihu.com/p/597586623).
   - **Code**: [*GPT-1*](https://github.com/openai/finetune-transformer-lm), [*GPT-2*](https://github.com/openai/gpt-2)
   - **Paper**: GPT-1, 2, and 3 have been accompanied by academic publications, while GPT-4 is currently only documented in a technical report without any model or training details.
     - [*Improving Language Understanding by Generative Pre-Training (GPT-1)*](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
